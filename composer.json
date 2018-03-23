@@ -19,8 +19,8 @@
         "issues": "http://github.com/symbiote/silverstripe-gridfieldextensions/issues"
     },
     "require": {
-        "silverstripe/vendor-plugin": "^1.0",
-        "silverstripe/framework": "~4.0"
+        "silverstripe/vendor-plugin": "^1",
+        "silverstripe/framework": "^4"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7",
