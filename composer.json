@@ -36,9 +36,14 @@
             "css",
             "javascript"
         ],
-        "branch-alias": {
-            "dev-master": "4.x-dev"
-        }
+        "branch-alias": [
+          {
+              "dev-master": "4.x-dev"
+          },
+          {
+              "dev-firsttable": "3.2.x-dev"
+          }
+        ]
     },
     "replace": {
         "ajshort/silverstripe-gridfieldextensions": "self.version",
